@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="168" height="44">
-  <text fill="blue" font-size="20" font-family="MS Gothic"     x="0" y="20">MS Gothic String.</text>
-  <text fill="blue" font-size="20" font-family="ＭＳ ゴシック" x="0" y="40">MS Gothic String.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="44" version="1.1"><text x="0" y="20" fill="#00f" font-family="MS Gothic" font-size="20">MS Gothic String.</text><text x="0" y="40" fill="#00f" font-family="ＭＳ ゴシック" font-size="20">MS Gothic String.</text></svg>
