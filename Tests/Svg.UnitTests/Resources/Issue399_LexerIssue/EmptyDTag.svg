@@ -1,14 +1,1 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1092" height="453">
-
-  <g transform="translate(40,20)" style="opacity: 1;">
-    <path class="plot-zero" d="M0,0 H1042" style="opacity: 0;"></path>
-		<path class="plot-now" d="" style="opacity: 0;"></path>
-		<path class="plot-now2" d="" style="opacity: 0;"></path>
-  </g>
-  <clipPath id="clip-view-2">
-    <rect width="1042" height="408"></rect>
-  </clipPath>
-  <g style="opacity: 0;"></g>
-  <text class="plot-warning" y="9" x="521" style="opacity: 0;">data loading - 75%</text>
-  <text class="plot-caption" y="14" x="521" style="opacity: 0;"></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1092" height="453"><g style="opacity:1"><path d="M0,0 H1042" class="plot-zero" style="opacity:0" transform="translate(40,20)"/><path class="plot-now" style="opacity:0" transform="translate(40,20)"/><path class="plot-now2" style="opacity:0" transform="translate(40,20)"/></g><clipPath id="clip-view-2"><rect width="1042" height="408"/></clipPath><text x="521" y="9" class="plot-warning" style="opacity:0">data loading - 75%</text></svg>
